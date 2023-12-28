@@ -35,4 +35,4 @@ watchable link: https://youtu.be/b_cp8MsnZFA?si=O08BTowBWtZluvk0 *credits: Stewa
   * Model: Gravitational (copper balls fall) --> Mechanical (F0 rotates) --> Mechanical (F1 rotates) --> Electrical (Circuit closes, LED lights)
  
 
-Time: *Started Winter/Spring 2023* *Paused Summer 2023, will complete 2024*
+Time: *Started Winter/Spring 2023, Paused Summer 2023, will complete 2024*
