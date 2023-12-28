@@ -16,3 +16,5 @@ CAD and print detachable clamps with pins for guitar strap!
 * Printing holes is extremely annoying due to the plastic... and holes... shrinking upon cooling
 * You can design very beautiful, organic designs on onshape, wooo Bezier Curves!!!
   * more info here: https://en.wikipedia.org/wiki/B%C3%A9zier_curve
+
+Time: *Started and completed Summer 2023*
