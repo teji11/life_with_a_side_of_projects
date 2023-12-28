@@ -33,3 +33,6 @@ watchable link: https://youtu.be/b_cp8MsnZFA?si=O08BTowBWtZluvk0 *credits: Stewa
 * Process
   * Real: Chemical (H+ ions diffuse) --> Mechanical (F0 changes) --> Mechanical (F1 changes) --> Chemical (ADP+P-->ATP)
   * Model: Gravitational (copper balls fall) --> Mechanical (F0 rotates) --> Mechanical (F1 rotates) --> Electrical (Circuit closes, LED lights)
+ 
+
+Time: *Started Winter/Spring 2023* *Paused Summer 2023, will complete 2024*
